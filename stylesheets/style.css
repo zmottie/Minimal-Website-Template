@@ -56,6 +56,13 @@ body {
   background: #f7f7f7;
 }
 
+@media (prefers-color-scheme: dark) {
+    /* If the operating system is using dark mode, then apply this CSS */
+    body {
+        background: #121212;
+    }
+}
+
 h1 {
   font-size: 2.25em;
   padding: 0 1em;
