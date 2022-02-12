@@ -206,11 +206,11 @@ ion-icon {
 }
 
 .icon-email {
-  color: #004f9f;
+  color: #497f77;
 }
 
 .icon-email:hover {
-  background: #004f9f;
+  background: #497f77;
 }
 
 .icon-github {
@@ -221,11 +221,11 @@ ion-icon {
   background: #333;
 }
 
-.icon-linkedin {
+.icon-facebook {
   color: #0077b5;
 }
 
-.icon-linkedin:hover {
+.icon-facebook:hover {
   background: #0077b5;
 }
 
