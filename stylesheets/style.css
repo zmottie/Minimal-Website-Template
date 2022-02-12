@@ -50,7 +50,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, main, menu,
 }
 
 body {
-  color: #333;
+  color: #000;
   text-align: center;
   font-family: 'Roboto', sans-serif;
   background: #f7f7f7;
@@ -58,17 +58,10 @@ body {
 
 @media (prefers-color-scheme: dark) {
     /* If the operating system is using dark mode, then apply this CSS */
-  body {
+    body {
       color: #acacac;  
       background: #121212;
-  }
-  h1 {
-      color: #FFFFFF; 
-      font-size: 2.25em;
-      padding: 0 1em;
-      font-style: italic;
-  }
-  
+    }
 }
 
 h1 {
@@ -77,6 +70,16 @@ h1 {
   padding: 0 1em;
   font-style: italic;
 }
+
+@media (prefers-color-scheme: dark) {
+  /* If the operating system is using dark mode, then apply this CSS */
+    h1 {
+      color: #FFF; 
+      font-size: 2.25em;
+      padding: 0 1em;
+      font-style: italic;
+    }
+  }
 
 a {
   text-decoration: none;
