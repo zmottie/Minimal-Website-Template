@@ -59,7 +59,8 @@ body {
 @media (prefers-color-scheme: dark) {
     /* If the operating system is using dark mode, then apply this CSS */
     body {
-        background: #121212;
+      color: #FFFFFF;  
+      background: #121212;
     }
 }
 
