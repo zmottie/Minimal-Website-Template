@@ -59,12 +59,13 @@ body {
 @media (prefers-color-scheme: dark) {
     /* If the operating system is using dark mode, then apply this CSS */
     body {
-      color: #FFFFFF;  
+      color: #acacac;  
       background: #121212;
     }
 }
 
 h1 {
+  color: #FFFFFF; 
   font-size: 2.25em;
   padding: 0 1em;
   font-style: italic;
