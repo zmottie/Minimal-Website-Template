@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mottie
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mottie.com
+  * I am mottie (https://keybase.io/mottie) on keybase.
+  * I have a public key ASA4jk6KQKWrN54WSZbaXWPTecP0NOVscn8iEy2u5KqsCAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012087c1a514e4f46e731d7a9c123d6c80e7f72c1e88607ce4dd1fdfe149f4e743720a",
+      "host": "keybase.io",
+      "kid": "0120388e4e8a40a5ab379e164996da5d63d379c3f434e56c727f22132daee4aaac080a",
+      "uid": "105c9ce07a60e0632b049f7178eee919",
+      "username": "mottie"
+    },
+    "merkle_root": {
+      "ctime": 1644685527,
+      "hash": "c4d477a774e4c404ac202fcce124ee53769697190a1e567e54645b02f2bc789272cec7c032d97ad5865721e5e4beb369f1f60722d0964450d51096bdbba48e71",
+      "hash_meta": "cbc79c94063a30bc337af4174919ea7f17d0c77b1aa2e9041720a83e56de1293",
+      "seqno": 21858108
+    },
+    "service": {
+      "entropy": "yYhSpT7UywJNScRLFTDNO9/A",
+      "hostname": "mottie.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.0"
+  },
+  "ctime": 1644685538,
+  "expire_in": 504576000,
+  "prev": "2175f988806995de353a9f596f341c651d9beecd32357ca196c5701f18d5bbca",
+  "seqno": 43,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgOI5OikClqzeeFkmW2l1j03nD9DTlbHJ/IhMtruSqrAgKp3BheWxvYWTESpcCK8QgIXX5iIBpld41Op9ZbzQcZR2b7s0yNXyhlsVwHxjVu8rEIPliffBk05S3wZhMopWi7SfpmYOrlIUXQp20ZZIFu4yqAgHCo3NpZ8RAYj2vYl+4TNElGvA5bP3xQ2DQb5bMRm6A7EGPpT6b9H3uHv1cBJozU7Om65AAIkmoR57YWoAxzvy8sNkN06ZDDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFX19r6Svih6pozSGypquioPad4o+iAuXsVVD2GabhDAo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mottie
+
+==================================================================
