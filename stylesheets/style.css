@@ -120,8 +120,8 @@ ion-icon {
   -moz-border-radius: 100px;
   -webkit-border-radius: 100px;
   border-radius: 100px;
-  width: 200px;
-  height: 200px;
+  width: 15%;
+  height: 15%;
 }
 
 .loadanimation {
